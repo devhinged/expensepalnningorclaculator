@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">expense palnning
+    </string>
+    <string name="verification">Verification</string>
+    <string name="verify">Verify</string>
+    <string name="enter_verification_code">enter verification code</string>
+</resources>
